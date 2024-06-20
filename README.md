@@ -33,7 +33,7 @@ and because it is not signed
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/309a11b7-5852-479b-b98f-fb4bf0a9cbf5)
 
 
-# Note: use this code at your own risk
+# Note: use this at your own risk because you have a small risk of being banned
 and it is normal if it looks like the Window has crashed
 
 I was lazy that I didn't make the window refresh when the bot is on
