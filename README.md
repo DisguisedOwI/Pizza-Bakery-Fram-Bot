@@ -25,7 +25,9 @@ what you can try then is to replace the images in the pizza folder
 
 # Virustotal
 it will be false flagged as a trojan.
+
 because it can move your mouse and it takes a screenshot which it uses to find out what the Pizza is
+
 and because it is not signed
 
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/309a11b7-5852-479b-b98f-fb4bf0a9cbf5)
