@@ -24,7 +24,7 @@ I recommend that you do this on a private server
 what you can try then is to replace the images in the pizza folder
 
 # Virustotal
-it will be false flagged as a trojan.
+it will be false flagged as a trojan
 
 because it can move your mouse and it takes a screenshot which it uses to find out what the Pizza is
 
