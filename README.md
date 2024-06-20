@@ -1,5 +1,4 @@
-# Pizza-Bakery-Fram-Bot
-Welcome to Bloxburg Fram Bot
+# Welcome to Bloxburg Fram Bot
 
 if this happens to you what you can do is click Green Button or change server
 
@@ -22,3 +21,5 @@ I recommend that you do this on a private server because people can Fortuna Move
 and it is normal if it looks like the Window has crashed
 
 I was lazy that I didn't make the window refresh when the bot is on
+
+and This is just a hobby project
