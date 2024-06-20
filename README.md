@@ -34,6 +34,6 @@ and because it is not signed
 
 
 # Note: use this at your own risk because you have a small risk of being banned
-and it is normal if it looks like the Window has crashed
+it is normal if it looks like the Window has crashed
 
 I was lazy that I didn't make the window refresh when the bot is on
