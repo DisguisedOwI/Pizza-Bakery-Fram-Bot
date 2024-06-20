@@ -1,8 +1,8 @@
-# Welcome to Bloxburg Fram Bot.
 # This is just a hobby project
 which will mean I won't be updating this as often
+contact me on discord if you need any help or ideas or bugs: disguised.owl
 
-# Tutorial
+# Tutorial:
 
 if this happens to you what you can do is click Green Button or change server
 
@@ -34,6 +34,7 @@ and because it is not signed
 
 
 # Note: use this at your own risk because you have a small risk of being banned
+
 it is normal if it looks like the Window has crashed
 
 I was lazy that I didn't make the window refresh when the bot is on
