@@ -1,5 +1,8 @@
 # Welcome to Bloxburg Fram Bot.
 # This is just a hobby project
+which will mean I won't be updating this as often
+
+# Tutorial
 
 if this happens to you what you can do is click Green Button or change server
 
