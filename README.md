@@ -13,14 +13,11 @@ if this happens to you what you can do is click Green Button or change server
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/ad4b1b64-b4cb-48be-89bd-b8df20880d63)
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/9dd45588-2321-41ba-b721-38a333586a25)
 
-This is what it should look like when you're done
-![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/0a551223-8370-47c7-bc10-7858810e14a8)
-
 Don't forget to !sit down! when using it so you don't die of a heart attack
 
 I recommend that you do this on a private server because people can Fortuna Move you who will make this won't work
 
 
-#Note: use this code at your own risk
+# Note: use this code at your own risk
 and it is normal if it looks like the Window has crashed
 I was lazy that I didn't make the window refresh when the bot is on
