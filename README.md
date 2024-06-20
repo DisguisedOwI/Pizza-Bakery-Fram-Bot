@@ -20,4 +20,5 @@ I recommend that you do this on a private server because people can Fortuna Move
 
 # Note: use this code at your own risk
 and it is normal if it looks like the Window has crashed
+
 I was lazy that I didn't make the window refresh when the bot is on
