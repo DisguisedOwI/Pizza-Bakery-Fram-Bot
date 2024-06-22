@@ -3,6 +3,7 @@ which will mean I won't be updating this as often
 contact me on discord if you need any help or ideas or bugs: disguised.owl
 
 # Tutorial:
+Note: I don't know if this will work on other types of screen and I'm using: 1080p
 
 if this happens to you what you can do is click Green Button or change server
 
