@@ -15,7 +15,7 @@ if this happens to you what you can do is click Green Button or change server
 
 3. Try Line up the red dots with the bowl and it's Green Button
 
-4. Don't forget to !sit down! when using it so you don't die of a heart attack
+4. Don't forget to !sit down! when using it so you don't pass out of a heart attack
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/ad4b1b64-b4cb-48be-89bd-b8df20880d63)
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/9dd45588-2321-41ba-b721-38a333586a25)
 
@@ -31,7 +31,7 @@ because it can move your mouse and it takes a screenshot which it uses to find o
 
 and because it is not signed
 
-![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/309a11b7-5852-479b-b98f-fb4bf0a9cbf5)
+![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/a543b69d-a17d-4d07-9f8c-fef89087066a)
 
 
 # Note: use this at your own risk because you have a small risk of being banned
