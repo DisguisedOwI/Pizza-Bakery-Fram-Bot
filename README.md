@@ -20,6 +20,7 @@ if this happens to you what you can do is click Green Button or change server.
 
 ![bild](https://github.com/user-attachments/assets/d1390a83-022b-4892-ae17-9cef1d744c62)
 ![bild](https://github.com/user-attachments/assets/448561af-73a1-43a7-8bff-b47a788be64c)
+![bild](https://github.com/user-attachments/assets/485fdc13-71d4-4df1-806c-498fe5691dc3)
 
 I recommend that you do this on a private server.
 
