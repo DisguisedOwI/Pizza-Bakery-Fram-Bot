@@ -1,4 +1,4 @@
-# This is just a hobby project.
+# This is just a Hobby Project.
 which will mean I won't be updating this as often.
 contact me on discord if you need any help or ideas or bugs: disguised.owl.
 
