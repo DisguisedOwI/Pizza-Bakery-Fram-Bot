@@ -1,11 +1,11 @@
 # This is just a Hobby Project.
-which will mean I won't be updating this as often.
-contact me on discord if you need any help or ideas or bugs: disguised.owl.
+Which will mean I won't be updating this as often.
+Contact me on discord if you need any help or ideas or bugs: disguised.owl.
 
 # Tutorial:
 Note: I don't know if this will work on other types of screen, I'm using: 1080p.
 
-if this happens to you what you can do is click Green Button or change server.
+If this happens to you what you can do is click Green Button or change server.
 
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/2f0c7c75-668a-4821-98f8-84c52d9da324)
 
@@ -16,7 +16,7 @@ if this happens to you what you can do is click Green Button or change server.
 3. Try Line up the red dots with the bowl and the Green Button.
 
 4. Don't forget to !SIT DOWN! [Emotes > Other > Sit] when using it so you don't pass out of a heart attack.
-5. if you can change to Robloxian 2.0 or something similar, because it will keep you from slipping on the floor and you can change it in the game.
+5. Change to Robloxian 2.0 And change to Teen, because it will keep you from slipping on the floor and you can change it in the game.
 
 ![bild](https://github.com/user-attachments/assets/d1390a83-022b-4892-ae17-9cef1d744c62)
 ![bild](https://github.com/user-attachments/assets/448561af-73a1-43a7-8bff-b47a788be64c)
@@ -24,15 +24,15 @@ if this happens to you what you can do is click Green Button or change server.
 
 I recommend that you do this on a private server.
 
-# if you have a problem does not detect the pizza.
-what you can try then is to replace the images in the pizza folder.
+# If you have a problem does not detect the pizza.
+What you can try then is to replace the images in the pizza folder.
 
 # Virustotal.
-it will be false flagged as a trojan.
+It will be false flagged as a trojan.
 
-because it can move your mouse and it takes a screenshot which it uses to find out what the Pizza is.
+Because it can move your mouse and it takes a screenshot which it uses to find out what the Pizza is.
 
-and because it is not signed.
+And because it is not signed.
 
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/a543b69d-a17d-4d07-9f8c-fef89087066a)
 
