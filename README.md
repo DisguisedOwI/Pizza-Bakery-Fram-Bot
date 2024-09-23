@@ -15,18 +15,16 @@ If this happens to you what you can do is click Green Button or change server.
 
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/2f0c7c75-668a-4821-98f8-84c52d9da324)
 
-1. Walk along to the right of all the stations go to the one that has boxes under it or Left Side.
+1. Walk along to the right or Left of all the stations go to the one that has boxes under it.
 
 2. Zoom out as much as you can and pull down your camera.
 
 3. Try Line up the red dots with the bowl and the Green Button.
 
-4. Don't forget to !SIT DOWN! [Emotes > Other > Sit] when using it so you don't pass out of a heart attack.
-5. Change to Robloxian 2.0 And change to Teen, because it will keep you from slipping on the floor and you can change it in the game.
-
 ![bild](https://github.com/user-attachments/assets/d1390a83-022b-4892-ae17-9cef1d744c62)
-![bild](https://github.com/user-attachments/assets/448561af-73a1-43a7-8bff-b47a788be64c)
-![bild](https://github.com/user-attachments/assets/485fdc13-71d4-4df1-806c-498fe5691dc3)
+![image](https://github.com/user-attachments/assets/f458fb4b-5539-4ec1-b162-582b5168be83)
+![image](https://github.com/user-attachments/assets/c65f7e87-97c2-472d-9978-6f9adcf3d67d)
+
 
 I recommend that you do this on a private server.
 
