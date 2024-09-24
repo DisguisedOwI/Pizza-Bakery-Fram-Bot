@@ -28,8 +28,13 @@ If this happens to you what you can do is click Green Button or change server.
 
 I recommend that you do this on a private server.
 
-# If you have a problem does not detect the pizza.
+# If you have a problem with the bot.
 What you can try then is to replace the images in the pizza folder.
+
+The left side has been reported by some to be a bit buggy
+
+Change your FPS to higher or lower it can fix the problems for some (probably won't work)
+
 
 # Virustotal.
 It will likely be mistakenly flagged as a trojan.
