@@ -5,8 +5,6 @@ Contact me on discord if you need any help or ideas or bugs: disguised.owl.
 # Note: use this at your own risk because you have a small risk of being banned.
 
 # Tutorial:
-Note: I don't know if this will work on other types of screen, I'm using: 1080p.
-
 If you get a warning that the app cannot be opened, click "Run Anyways". You may need to click "more info" to see this option.
 This warning is entirely harmless and only shows because the app is not signed. Signing it would cost me [€359/year.](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html)
 and Do not run the installer as an Administrator!
@@ -44,3 +42,8 @@ Since it moves your mouse and takes a screenshot to identify the Pizza, the syst
 or just probably because i haven't signed it. [cost me €359/year.](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html)
 
 ![bild](https://github.com/DisguisedOwI/Pizza-Bakery-Fram-Bot/assets/92737576/a543b69d-a17d-4d07-9f8c-fef89087066a)
+
+
+# -Star History-
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DisguisedOwI/Pizza-Bakery-Fram-Bot&type=Date)](https://star-history.com/#DisguisedOwI/Pizza-Bakery-Fram-Bot&Date)
