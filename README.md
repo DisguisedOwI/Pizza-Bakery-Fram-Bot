@@ -4,6 +4,8 @@ Contact me on discord if you need any help or ideas or bugs: disguised.owl.
 
 # Note: use this at your own risk because you have a small risk of being banned.
 
+pip install -r requirements.txt
+
 # Tutorial:
 If you get a warning that the app cannot be opened, click "Run Anyways". You may need to click "more info" to see this option.
 This warning is entirely harmless and only shows because the app is not signed. Signing it would cost me [€359/year.](https://shop.certum.eu/data-security/code-signing-certificates/certum-ev-code-sigining.html)
