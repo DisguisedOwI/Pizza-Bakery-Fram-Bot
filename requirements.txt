@@ -1,0 +1,13 @@
+customtkinter>=5.2.2
+keyboard>=0.13.5
+mouse>=0.7.1
+mousekey>=0.12
+mss>=10.0.0
+numpy>=2.2.3
+opencv_python>=4.8.0.74
+opencv_python_headless>=4.10.0.84
+Pillow>=11.1.0
+pyclick>=0.0.2
+pywin32>=309
+pywinstyles>=1.8
+Requests>=2.32.3
