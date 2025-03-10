@@ -48,4 +48,4 @@ or just probably because i haven't signed it. [cost me €359/year.](https://sho
 
 # -Star History-
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DisguisedOwI/Pizza-Bakery-Fram-Bot&type=Timeline)](https://star-history.com/#DisguisedOwI/Pizza-Bakery-Fram-Bot&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=DisguisedOwI/Pizza-Bakery-Fram-Bot&type=Timeline)](https://www.star-history.com/#DisguisedOwI/Pizza-Bakery-Fram-Bot&Timeline)
