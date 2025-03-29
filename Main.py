@@ -25,12 +25,10 @@ stc=mss()
 #------------------------------------------------------------
 
 # Get the screen resolution
-try:
-	screens_resolution=mkey.get_screen_resolution()
-except:
-	screens_resolution=[1920,1080]
+try:	screens_resolution=mkey.get_screen_resolution()
+except: screens_resolution=[1920,1080]
 x_screens_resolution=screens_resolution[0];y_screens_resolution=screens_resolution[1]
-mon={"top": 0,"left": int(x_screens_resolution/4.8),"width": int(x_screens_resolution/1.92),"height": int(y_screens_resolution/3)}
+mon={"top": 0,"left": int(x_screens_resolution/4.8),"width": int(x_screens_resolution/1.92),"height": int(y_screens_resolution/3)} # How much of the screen to grab
 
 speed="Normal"						# Default speed
 Resize=0.37							# Resize the screenshot
@@ -47,6 +45,12 @@ h = 0  								# Initialize the height of the template image
 def Left_Or_Right_data_of_coordinates():
 	global restock_x,restock_y,Add_Doughx,Add_Doughy,Add_Sauce_x,Add_Sauce_y,Add_cheese_x,Add_cheese_y,Add_pepperoni_x,Add_pepperoni_y,Add_ham_x,Add_ham_y,Add_veg_x,Add_veg_y,default_x,default_y,done_x,done_y,Left_Or_Right_data_of_coordinates_BOX,image_paths
 
+	Add_Sauce_x,Add_Sauce_y=0,			int(y_screens_resolution/float(16.3))											# Sauce button
+	Add_cheese_x,Add_cheese_y=0,		int(y_screens_resolution/float(16.3))											# Cheese button
+	Add_pepperoni_x,Add_pepperoni_y=0,	int(y_screens_resolution/float(16.3))											# Pepperoni button
+	Add_ham_x,Add_ham_y=				int(x_screens_resolution/float(16)),0											# Ham button
+	Add_veg_x,Add_veg_y=				int(-x_screens_resolution/float(13.3)),0										# Veg button
+
 	if Left_Or_Right_data_of_coordinates_BOX.get()==True:
 		Left_Or_Right_data_of_coordinates_BOX.configure(text="Left Side",font=("Arial",int(14),"bold"))					# Change the text of the button
 
@@ -55,11 +59,6 @@ def Left_Or_Right_data_of_coordinates():
 
 		restock_x,restock_y=				int(x_screens_resolution/float(2.73)),int(y_screens_resolution/1.015)		# Restock button
 		Add_Doughx,Add_Doughy=				int(x_screens_resolution/float(1.95)),int(y_screens_resolution/4.9)			# Dough button
-		Add_Sauce_x,Add_Sauce_y=0,			int(y_screens_resolution/float(16.3))										# Sauce button
-		Add_cheese_x,Add_cheese_y=0,		int(y_screens_resolution/float(16.3))										# Cheese button
-		Add_pepperoni_x,Add_pepperoni_y=0,	int(y_screens_resolution/float(16.3))										# Pepperoni button
-		Add_ham_x,Add_ham_y=				int(x_screens_resolution/float(16)),0										# Ham button
-		Add_veg_x,Add_veg_y=				int(-x_screens_resolution/float(13.3)),0									# Veg button
 		done_x,done_y=						int(x_screens_resolution/float(1.5)),int(y_screens_resolution/6.58)			# Done button
 		default_x,default_y=				int(x_screens_resolution/float(1.64)),int(y_screens_resolution/9)			# Default button
 
@@ -71,11 +70,6 @@ def Left_Or_Right_data_of_coordinates():
 
 		restock_x,restock_y=				int(x_screens_resolution/float(1.75)),int(y_screens_resolution/1.07)		# Restock button
 		Add_Doughx,Add_Doughy=				int(x_screens_resolution/float(2.95)),int(y_screens_resolution/4.32)		# Dough button
-		Add_Sauce_x,Add_Sauce_y=0,			int(y_screens_resolution/float(16.3))										# Sauce button
-		Add_cheese_x,Add_cheese_y=0,		int(y_screens_resolution/float(16.3))										# Cheese button
-		Add_pepperoni_x,Add_pepperoni_y=0,	int(y_screens_resolution/float(16.3))										# Pepperoni button
-		Add_ham_x,Add_ham_y=				int(x_screens_resolution/float(16)),0										# Ham button
-		Add_veg_x,Add_veg_y=				int(-x_screens_resolution/float(13.3)),0									# Veg button
 		done_x,done_y=						int(x_screens_resolution/float(2)),int(y_screens_resolution/5.6)			# Done button
 		default_x,default_y=				int(x_screens_resolution/float(2.22)),int(y_screens_resolution/3.85)		# Default button
 
@@ -87,8 +81,7 @@ def take_screenshot():
 	img=stc.grab(mon) 														# Grab a screenshot of the monitor
 	img_pil=Image.frombytes("RGB",img.size,img.bgra,"raw","BGRX")			# Convert the screenshot to a PIL image
 
-	# Coordinates data points
-	Coordinates_data=[(Add_Doughx,Add_Doughy),(done_x,done_y)]
+	Coordinates_data=[(Add_Doughx,Add_Doughy),(done_x,done_y)]				# Coordinates data points
 
 	# Draw the Coordinates data on the screenshot
 	draw=ImageDraw.Draw(img_pil);dot_radius=int(x_screens_resolution/192);outline_radius=int(x_screens_resolution/384)
